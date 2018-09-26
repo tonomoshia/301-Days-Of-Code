@@ -6,4 +6,4 @@
 
 #### Start Date
 
-September 28, 2018. [Put your start date here]
+September 28, 2018.
