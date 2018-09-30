@@ -37,7 +37,7 @@ No link.
 Re-doing JavaScript and the DOM section of [Udacity Front End Nanodegree][12]. Hoping to understand it better this time. Changes I made to my [game][7] just broke it so I rolled them back.
 Read article: [How to Understand and Modify the DOM in JavaScript][13] by [Tania Rascia][15].
 Also created a staging site for my WordPress site, just a subdomain of my site. I want to try a few things without breaking things.
-Learned about the [Google Analytics Certificate][14] from Google and I want to get that. Adding to my goals list.
+Learned about the [Google Analytics Certificate][14] from Google and I want to get that. Adding to my [Goals List](goals_list.md).
 
 **Thoughts:**
 Finished Q&A section of Mike Wales' [video][8]. Not really that helpful.
