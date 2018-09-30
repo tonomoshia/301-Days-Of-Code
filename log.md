@@ -2,6 +2,8 @@
 
 The daily log of my **#301DaysOfCode** challenge.
 
+![Tonomoshia Logo](http://tonomoshia.com/wp-content/uploads/1b3a7c3b-679745f4-540ed3a3-5431c6a1.png)
+
 ## Log
 
 ### Day 0: [September 27, 2018]
