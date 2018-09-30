@@ -2,7 +2,7 @@
 
 The daily log of my **#301DaysOfCode** challenge.
 
-![Tonomoshia Logo](http://tonomoshia.com/wp-content/uploads/1b3a7c3b-679745f4-540ed3a3-5431c6a1.png)
+![Tonomoshia Logo](http://tonomoshia.com/wp-content/uploads/af8d95fc-03f63357-285e00a6-54e87dba.png)
 
 ## Log
 
