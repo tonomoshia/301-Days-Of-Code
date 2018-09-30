@@ -17,7 +17,7 @@ I need to re-do the Udacity section "JavaScript and the DOM" because I still don
 **Link to work:**
 [My Memory Game Github Repository, very much in progress][7]
 
-### Day 1: [september 28, 2018]
+### Day 1: [September 28, 2018]
 
 **Today's Progress:**
 Some work in a [The Complete WordPress Website Business Course][9] on Udemy Course by Gregg Davis. I'm 75% done with this and I would like to finish it. I've found it pretty impossible to do JavaScript at lunch at work anymore, so I'm going back to this for lunch n' code (#LunchNCode).
@@ -29,7 +29,7 @@ DId not do anything coding related after work.
 **Link to work:**
 No link.
 
-### Day 2: [september 29, 2018]
+### Day 2: [September 29, 2018]
 
 **Today's Progress:**
 Re-doing JavaScript and the DOM section of [Udacity Front End Nanodegree][12]. Hoping to understand it better this time. Changes I made to my [game][7] just broke it so I rolled them back.
@@ -41,7 +41,7 @@ Learned about the [Google Analytics Certificate][14] from Google and I want to g
 Finished Q&A section of Mike Wales' [video][8]. Not really that helpful.
 
 **Link to work:**
-No change to my [game][7] as I rolled them back.
+No changes to my [game][7] as I rolled them back.
 
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
