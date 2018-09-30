@@ -10,10 +10,10 @@
   - [ ] Project 7: [Neighborhood Map][6]
 - [ ] [Wordpress Website Business Udemy Course][9]
 - [ ] [Google Analytics Certification][10]
-- [ ] Skillcrush Blueprints
+- [ ] [Skillcrush][11] Blueprints
   - [ ] Ruby on Rails Developer Blueprint
-  - [ ] Freelance WordPress Developer Blueprint
-  - [ ] Front End Developer Bluprint
+  - [ ] [Freelance WordPress Developer Blueprint][13]
+  - [ ] [Front End Developer Bluprint][12]
 - [ ] New amazing job as a scrum master, developer or other tech-adjacent job with some management duties
 
 [1]: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 'Udacity Front End Nanodegree'
@@ -26,3 +26,6 @@
 [8]: https://github.com/tonomoshia/frontend-nanodegree-feedreader
 [9]: https://www.udemy.com/share/100018BUQYdVtTRQ==/
 [10]: https://support.google.com/partners/answer/6089738?hl=en 'Google Analytics Individual Qualification (IQ)'
+[11]: https://skillcrush.com/ 'Skillcrush'
+[12]: https://skillcrush.com/blueprint/front-end-developer/ 'Skillcrush Front End Developer Blueprint'
+[13]: https://skillcrush.com/blueprint/learn-wordpress/ 'Skillcrush Freelance WordPress Developer Blueprint'
