@@ -10,6 +10,10 @@
   - [ ] Project 7: [Neighborhood Map][6]
 - [ ] [Wordpress Website Business Udemy Course][9]
 - [ ] [Google Analytics Certification][10]
+- [ ] Skillcrush Blueprints
+  - [ ] Ruby on Rails Developer Blueprint
+  - [ ] Freelance WordPress Developer Blueprint
+  - [ ] Front End Developer Bluprint
 - [ ] New amazing job as a scrum master, developer or other tech-adjacent job with some management duties
 
 [1]: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 'Udacity Front End Nanodegree'
