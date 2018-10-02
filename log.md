@@ -45,6 +45,30 @@ Finished Q&A section of Mike Wales' [video][8]. Not really that helpful.
 **Link to work:**
 No changes to my [game][7] as I rolled them back.
 
+[September 30, 2018] Sunday, no coding
+
+### Day 3: [October 1, 2018]
+
+**Today's Progress:**
+
+Some work in a [The Complete WordPress Website Business Course][9] on Udemy Course by Gregg Davis. I'm now 80 % done with this. Finished section on different kinds of way to set up transactional and/or marketing e-mail and now we move on to the exciting topic of e-commerce. Excited for that. #LunchNCode
+No coding after work.
+
+**Thoughts:**
+
+After work, I spent a couple of hours looking for jobs.
+
+- [FlexJobs][16]
+- [Pantheon][19]
+- [Baremetrics][20]
+- [Remote.co][21]
+
+Bought a [Humble Bundle][17] with [Head First books][18] because I wanted the insane price on the [Design Patterns][22] book.
+
+**Link to work:**
+
+No link.
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
@@ -60,3 +84,10 @@ No changes to my [game][7] as I rolled them back.
 [13]: https://www.digitalocean.com/community/tutorials/introduction-to-the-dom 'How to Understand and Modify the DOM in JavaScript'
 [14]: https://support.google.com/partners/answer/6089738?hl=en 'Google Analytics Individual Qualification (IQ)'
 [15]: https://www.taniarascia.com/ 'Tania Rascia'
+[16]: https://www.flexjobs.com 'Flex Jobs'
+[17]: https://www.humblebundle.com 'Humble Bundle'
+[18]: https://www.humblebundle.com/books/head-first-books 'Head First Humble Bundle'
+[19]: https://pantheon.io/careers#greenhouse-board-list 'Careers at Pantheon'
+[20]: https://baremetrics.workable.com/jobs/827674/candidates/new 'Baremetrics'
+[21]: https://remote.co 'Remote.co'
+[22]: https://read.amazon.com/kp/embed?asin=B00AA36RZY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_uXUSBbXK5H1JV 'Head First Design Patterns: A Brain-Friendly Guide'
