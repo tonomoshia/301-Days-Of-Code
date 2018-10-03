@@ -69,6 +69,29 @@ Bought a [Humble Bundle][17] with [Head First books][18] because I wanted the in
 
 No link.
 
+### Day 4: [October 2, 2018]
+
+**Today's Progress:**
+
+Read 10% of [Head First JavaScript Programming: A Brain Friendly Guide][23]. It's from 2014 so it does not have ES6, but it will do fine for some more foundational learning.
+
+More work in a [The Complete WordPress Website Business Course][9] on Udemy Course by Gregg Davis. I'm now 82 % done with this. Spent all day with first born at doctor appointments so after picking up second-born, I went to library for a couple of hours, where I had problems connecting to their wi-fi on my Macbook. Could only connect on my iPad. Restarting fixed it, after saving all my rprecious tabs (yes, I'm one of those tab hoarders).
+
+I did a couple of hours of solid work.
+
+Then I did something crazy (installed a plugin and chose a setting I should not have), bricked my website and had to learn how to use FTP so I could restore it.
+
+Then I received over 20K email messages (error logging) that I am still trying to get rid of. More keep popping into the mailbox. I was able to figure out good parameters for a filter so several thousand more emails will be siting in my box for me to delete tomorrow morning.
+
+**Thoughts:**
+
+Tweet: 104/302: I feel like I made a rite of passage. After 2 solid hours of work, I bricked my #WordPress site. Then I used FTP for the first time and I was able to fix it. Feeling good!
+I knew better, had a staging site, but this happened because I didn’t use it! Shame! #301DaysOfCode
+
+**Link to work:**
+
+No link. Except my [website][24], which works again. 😅
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
@@ -91,3 +114,5 @@ No link.
 [20]: https://baremetrics.workable.com/jobs/827674/candidates/new 'Baremetrics'
 [21]: https://remote.co 'Remote.co'
 [22]: https://read.amazon.com/kp/embed?asin=B00AA36RZY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_uXUSBbXK5H1JV 'Head First Design Patterns: A Brain-Friendly Guide'
+[23]: https://read.amazon.com/kp/embed?asin=B00J9TMSDU&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_p4dTBbEDHQ1Z3 'Head First JavaScript Programming: A Brain-Friendly Guide'
+[24]: https://tonomoshia.com 'Tonomoshia.com'
