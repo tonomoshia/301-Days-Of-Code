@@ -4,6 +4,8 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ![Tonomoshia Logo](http://tonomoshia.com/wp-content/uploads/af8d95fc-03f63357-285e00a6-54e87dba.png)
 
+[#100DaysOfCode twitter thread][25]
+
 ## Log
 
 ### Day 100: [September 27, 2018]
@@ -126,3 +128,4 @@ Still receiving error logging emails from my snafu last night, only about 4k. Ho
 [22]: https://read.amazon.com/kp/embed?asin=B00AA36RZY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_uXUSBbXK5H1JV 'Head First Design Patterns: A Brain-Friendly Guide'
 [23]: https://read.amazon.com/kp/embed?asin=B00J9TMSDU&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_p4dTBbEDHQ1Z3 'Head First JavaScript Programming: A Brain-Friendly Guide'
 [24]: https://tonomoshia.com 'Tonomoshia.com'
+[25]: https://twitter.com/tonomoshia/status/989535045751918592 'my #100DaysOfCode twitter thread'
