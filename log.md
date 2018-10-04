@@ -6,20 +6,20 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
-### Day 0: [September 27, 2018]
+### Day 100: [September 27, 2018]
 
 **Today's Progress:**
 Trying to understand JavaScript DOM manipulation to better understand how to implement the memory game project. Re-watched [Mike Wales video][8] on the project. Udacity updated the project page to be more helpful, outlining the chunks we need to work on, helping us structure our code and break it down better.
 
 **Thoughts:**
-Excited to get started one day early. Reviewed JavaScript concepts at [JavaScript ES6 Explorer][1], [Awesome Cheatsheets][2] and [ES6 Features: Changes and Comparisons][6]. Learned about [30 Seconds of Interviews][3] from [Sara Vasquez][4] and that is a resource that I will be checking into every day.
+Excited to get started one day early. (This is day 100 of my #100DaysOfCode.) Reviewed JavaScript concepts at [JavaScript ES6 Explorer][1], [Awesome Cheatsheets][2] and [ES6 Features: Changes and Comparisons][6]. Learned about [30 Seconds of Interviews][3] from [Sara Vasquez][4] and that is a resource that I will be checking into every day.
 Re-familiarized myself with Markdown syntax on [Daring Fireball Markdown: Syntax][5].
 I need to re-do the Udacity section "JavaScript and the DOM" because I still don't get it.
 
 **Link to work:**
 [My Memory Game Github Repository, very much in progress][7]
 
-### Day 1: [September 28, 2018]
+### Day 101: [September 28, 2018]
 
 **Today's Progress:**
 Some work in a [The Complete WordPress Website Business Course][9] on Udemy Course by Gregg Davis. I'm 75% done with this and I would like to finish it. I've found it pretty impossible to do JavaScript at lunch at work anymore, so I'm going back to this for lunch n' code (#LunchNCode).
@@ -31,7 +31,7 @@ DId not do anything coding related after work.
 **Link to work:**
 No link.
 
-### Day 2: [September 29, 2018]
+### Day 102: [September 29, 2018]
 
 **Today's Progress:**
 Re-doing JavaScript and the DOM section of [Udacity Front End Nanodegree][12]. Hoping to understand it better this time. Changes I made to my [game][7] just broke it so I rolled them back.
@@ -47,7 +47,7 @@ No changes to my [game][7] as I rolled them back.
 
 [September 30, 2018] Sunday, no coding
 
-### Day 3: [October 1, 2018]
+### Day 103: [October 1, 2018]
 
 **Today's Progress:**
 
@@ -69,7 +69,7 @@ Bought a [Humble Bundle][17] with [Head First books][18] because I wanted the in
 
 No link.
 
-### Day 4: [October 2, 2018]
+### Day 104: [October 2, 2018]
 
 **Today's Progress:**
 
@@ -92,7 +92,7 @@ I knew better, had a staging site, but this happened because I didn’t use it! 
 
 No link. Except my [website][24], which works again. 😅
 
-### Day 5: [October 3, 2018]
+### Day 105: [October 3, 2018]
 
 **Today's Progress:**
 
