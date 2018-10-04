@@ -92,6 +92,16 @@ I knew better, had a staging site, but this happened because I didn’t use it! 
 
 No link. Except my [website][24], which works again. 😅
 
+### Day 5: [October 3, 2018]
+
+**Today's Progress:**
+
+Up to 15% of [Head First JavaScript Programming: A Brain Friendly Guide][23].
+
+More work in a [The Complete WordPress Website Business Course][9] on Udemy Course by Gregg Davis. I set up a WooCommerce store on a subdomian. Pretty fun. I'm now 85 % done with this course.
+
+Still receiving error logging emails from my snafu last night, only about 4k. Hopefully the queue is empty by now and they will stop
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
