@@ -131,6 +131,7 @@ Scored a 7/7 on the Introduction to React Quiz. Yippee!
 9% complete in React Fundamentals.
 
 **Thoughts:**
+
 Counting on this quote from Tyler McGinnis:
 
 > The better you get at using react the better you are going to to be at JavaScript.
