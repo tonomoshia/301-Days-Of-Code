@@ -10,6 +10,16 @@
   - [ ] Project 7: [Neighborhood Map][6]
 - [ ] [Wordpress Website Business Udemy Course][9]
 - [ ] [Google Analytics Certification][10]
+- [ ] Tyler McGinnis Courses:
+    - [ ] React Fundamentals
+    - [ ] Modern JavaScript
+    - [ ] Advanced JavaScript
+    - [ ] Redux
+    - [ ] React Router
+    - [ ] React Native
+- [ ] Codecademy courses:
+    - [ ] ReactJS Part 1
+    - [ ] ReactJS Part 2
 - [ ] [Skillcrush][11] Blueprints
   - [ ] Ruby on Rails Developer Blueprint
   - [ ] [Freelance WordPress Developer Blueprint][13]
