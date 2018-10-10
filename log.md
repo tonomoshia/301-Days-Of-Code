@@ -102,7 +102,40 @@ Up to 15% of [Head First JavaScript Programming: A Brain Friendly Guide][23].
 
 More work in a [The Complete WordPress Website Business Course][9] on Udemy Course by Gregg Davis. I set up a WooCommerce store on a subdomian. Pretty fun. I'm now 85 % done with this course.
 
-Still receiving error logging emails from my snafu last night, only about 4k. Hopefully the queue is empty by now and they will stop
+Still receiving error logging emails from my snafu last night, only about 4k. Hopefully the queue is empty by now and they will stop.
+
+### Day 106 [October 4, 2018]
+
+All about WordPress today:
+[South Florida WordPress Meetup Group][27]. Great info as always. Tried out some #Gutenberg plugins (block-based). Made a new subdomain with the new [photos theme][28]. (Going to replace my Lifecake as I have reached my quota.) Also worked on my store site (learning how to use custom fields and add payment gateways).
+
+### October 5, 2018 - October 8, 2018
+
+Playing with WordPress and looking for jobs. No "serious coding".
+
+### Day 107 [October 9, 2018]
+
+**Today's Progress:**
+
+Started [Codecademy Learn ReactJS: Part I course][26] working with JSX. Completed lesson: Intro to JSX, so 8% complete with course.
+
+Read Codecademy's article: [React: The Virtual DOM][29].
+
+Signed up for Tyler McGinnis Course subscription. He guarantees updates to his course for any breaking changes in the programming language (ex. React, JavaScript). Also there was a rare 25% discount. I can ill-afford it, but I am sucker for a deal, sometimes. Started React Fundamentals course.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m learning <a href="https://twitter.com/reactjs?ref_src=twsrc%5Etfw">@reactjs</a> with <a href="https://twitter.com/tylermcginnis?ref_src=twsrc%5Etfw">@tylermcginnis</a>&#39;s React Fundamentals course ⚛️ 🎉.  <a href="https://t.co/iZbVTLYi45">https://t.co/iZbVTLYi45</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/301DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#301DaysOfCode</a> <a href="https://twitter.com/hashtag/ReactJS?src=hash&amp;ref_src=twsrc%5Etfw">#ReactJS</a> <a href="https://twitter.com/hashtag/JavaScript?src=hash&amp;ref_src=twsrc%5Etfw">#JavaScript</a> <a href="https://twitter.com/hashtag/MomsCanCode?src=hash&amp;ref_src=twsrc%5Etfw">#MomsCanCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Elizabeth Reiher (@tonomoshia) <a href="https://twitter.com/tonomoshia/status/1049824857456664576?ref_src=twsrc%5Etfw">October 10, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Scored a 7/7 on the Introduction to React Quiz. Yippee!
+
+9% complete in React Fundamentals.
+
+**Thoughts:**
+Counting on this quote from Tyler McGinnis:
+
+> The better you get at using react the better you are going to to be at JavaScript.
+
+Also taking notes, which I haven't done for a while, and I think it is very beneficial so there is every reason to do it. Taking notes on my iPad while I work on the Macbook. (Notability app for the win).
 
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
@@ -129,3 +162,7 @@ Still receiving error logging emails from my snafu last night, only about 4k. Ho
 [23]: https://read.amazon.com/kp/embed?asin=B00J9TMSDU&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_p4dTBbEDHQ1Z3 'Head First JavaScript Programming: A Brain-Friendly Guide'
 [24]: https://tonomoshia.com 'Tonomoshia.com'
 [25]: https://twitter.com/tonomoshia/status/989535045751918592 'my #100DaysOfCode twitter thread'
+[26]: https://www.codecademy.com/courses/react-101 'Codecademy Learn ReactJS: Part I course'
+[27]: https://www.meetup.com/SF-WordPress-Users 'South Florida WordPress Meetup Group'
+[28]: https://wordpress.com/theme/photos 'Wordpress.com Photos Theme that can be used on a self-hosted WordPress.org site'
+[29]: https://www.codecademy.com/articles/react-virtual-dom 'React: The Virtual DOM'
