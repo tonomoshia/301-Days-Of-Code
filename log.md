@@ -138,6 +138,21 @@ Counting on this quote from Tyler McGinnis:
 
 Also taking notes, which I haven't done for a while, and I think it is very beneficial so there is every reason to do it. Taking notes on my iPad while I work on the Macbook. (Notability app for the win).
 
+### [October 11, 2018]
+
+Lost my job today. While I should be more motivated than ever to code all the things,this day and the next day were not good days for focus and energy.
+Did apply for jobs and call HR bout 401(k) and benefits.
+
+### [October 12, 2018]
+
+Applied to many jobs in my current field. Signed up for health insurance on marketplace.
+
+### Day 108 [October 13, 2018]
+
+[Codecademy Learn ReactJS: Part I course][26] working with JSX and injected JavaScript in React. 16% done with this.
+
+It is very loud at the library today. Did as much as I could before the headache set in. What a weird set-up. The performing arts center abuts the library building (they are basicially one building) so when it is loud in there it is loud in the library.
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
