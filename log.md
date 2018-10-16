@@ -153,6 +153,9 @@ Applied to many jobs in my current field. Signed up for health insurance on mark
 
 It is very loud at the library today. Did as much as I could before the headache set in. What a weird set-up. The performing arts center abuts the library building (they are basicially one building) so when it is loud in there it is loud in the library.
 
+### Day 109 [October 15]
+[Codecademy Learn ReactJS: Part I course][26] Lesson called 'Your First React Component'. 25% done with this.
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
