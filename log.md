@@ -188,6 +188,10 @@ Reviewed first 4 Sections in this lesson:
 - props refer to attributes from parent components.
 - If your component does not keep track of internal state (i.e., all it really has is just a render() method), you can declare the component as a Stateless Functional Component.
 
+**Other Stuff:**
+
+Applying for a job at Konsus for a Squarespace Developer, so I took a [Skillshare][32] web course about [Squarespace][33]: [Personal Branding Essentials: Making the Most of Squarespace][31].
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
@@ -218,3 +222,6 @@ Reviewed first 4 Sections in this lesson:
 [28]: https://wordpress.com/theme/photos 'Wordpress.com Photos Theme that can be used on a self-hosted WordPress.org site'
 [29]: https://www.codecademy.com/articles/react-virtual-dom 'React: The Virtual DOM'
 [30]: https://www.eventbrite.com/e/thinkful-webinar-build-a-web-app-with-javascript-jquery-tickets-50804375254?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent 'Thinkful Webinar: Build a Web App with JavaScript & jQuery'
+[31]: https://www.skillshare.com/classes/Personal-Branding-Essentials-Making-the-Most-of-Squarespace/462647178?via=logged-in-home-your-classes&autoPlay=1 'Personal Branding Essentials: Making the Most of Squarespace'
+[32]: https://www.skillshare.com/home 'Skillshare'
+[33]: https://www.squarespace.com/ 'Squarespace'
