@@ -154,7 +154,39 @@ Applied to many jobs in my current field. Signed up for health insurance on mark
 It is very loud at the library today. Did as much as I could before the headache set in. What a weird set-up. The performing arts center abuts the library building (they are basicially one building) so when it is loud in there it is loud in the library.
 
 ### Day 109 [October 15]
+
 [Codecademy Learn ReactJS: Part I course][26] Lesson called 'Your First React Component'. 25% done with this.
+
+### Day 110 [October 16]
+
+[Thinkful Webinar: Build a Web App with JavaScript & jQuery][30]
+
+42% done with [Codecademy Learn ReactJS: Part I course][26]. (All of the sudden I jumped from 25% done to 42% done because my Pro Trial which I wasn't using, ended. I was only 25% done because they were including quizzes and whatnot. Now that they are not included I have jumped to 42% done without any work done in this tutorial.)
+
+### Day 111 [October 17]
+
+**Today's progress:**
+
+[Codecademy Learn ReactJS: Part I course][26] Lesson: COMPONENTS AND ADVANCED JSX. 57% done.
+
+Read article recommended in [Codecademy Learn ReactJS: Part I course][26] about `this`:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Gentle explanation of this keyword in JavaScript <a href="https://t.co/Evnsfygfj6">https://t.co/Evnsfygfj6</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/301DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#301DaysOfCode</a> <a href="https://twitter.com/hashtag/Javascript?src=hash&amp;ref_src=twsrc%5Etfw">#Javascript</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/PjtOmZOKhw">pic.twitter.com/PjtOmZOKhw</a></p>&mdash; Elizabeth Reiher (@tonomoshia) <a href="https://twitter.com/tonomoshia/status/1052575042494783489?ref_src=twsrc%5Etfw">October 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Udacity][12] React reviewed (re-did) State Management lesson.
+
+Reviewed first 4 Sections in this lesson:
+
+- Introduction
+- Pass Data with Props
+- Functional Components
+- Add State to a Component
+
+**Notable React Notes:**
+
+- props refer to attributes from parent components.
+- If your component does not keep track of internal state (i.e., all it really has is just a render() method), you can declare the component as a Stateless Functional Component.
 
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
@@ -185,3 +217,4 @@ It is very loud at the library today. Did as much as I could before the headache
 [27]: https://www.meetup.com/SF-WordPress-Users 'South Florida WordPress Meetup Group'
 [28]: https://wordpress.com/theme/photos 'Wordpress.com Photos Theme that can be used on a self-hosted WordPress.org site'
 [29]: https://www.codecademy.com/articles/react-virtual-dom 'React: The Virtual DOM'
+[30]: https://www.eventbrite.com/e/thinkful-webinar-build-a-web-app-with-javascript-jquery-tickets-50804375254?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent 'Thinkful Webinar: Build a Web App with JavaScript & jQuery'
