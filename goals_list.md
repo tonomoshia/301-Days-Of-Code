@@ -1,7 +1,7 @@
 # Goals List
 
 - [ ] [Udacity Front End Nanodegree][1]
-  - [ ] Project 1: [Portfolio Page][7]
+  - [x] Project 1: [Portfolio Page][7]
   - [x] Project 2: [Memory Game][2]
   - [ ] Project 3: [Arcade Game][3]
   - [x] Project 4: [Feed Reader Testing][8]
@@ -11,15 +11,15 @@
 - [ ] [Wordpress Website Business Udemy Course][9]
 - [ ] [Google Analytics Certification][10]
 - [ ] Tyler McGinnis Courses:
-    - [ ] React Fundamentals
-    - [ ] Modern JavaScript
-    - [ ] Advanced JavaScript
-    - [ ] Redux
-    - [ ] React Router
-    - [ ] React Native
+  - [ ] React Fundamentals
+  - [ ] Modern JavaScript
+  - [ ] Advanced JavaScript
+  - [ ] Redux
+  - [ ] React Router
+  - [ ] React Native
 - [ ] Codecademy courses:
-    - [ ] ReactJS Part 1
-    - [ ] ReactJS Part 2
+  - [ ] ReactJS Part 1
+  - [ ] ReactJS Part 2
 - [ ] [Skillcrush][11] Blueprints
   - [ ] Ruby on Rails Developer Blueprint
   - [ ] [Freelance WordPress Developer Blueprint][13]
