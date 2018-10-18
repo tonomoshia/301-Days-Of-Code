@@ -6,6 +6,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 [#100DaysOfCode twitter thread][25]
 
+## Contents
+
+- [Rules](rules.md)
+- [Log](log.md)
+- [Goals List](goals_list.md)
+- [FAQ](https://github.com/akshay1337/301-Days-Of-Code#faq)
+
 ## Log
 
 ### Day 100: [September 27, 2018]

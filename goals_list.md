@@ -1,6 +1,13 @@
 # Goals List
 
-- [ ] [Udacity Front End Nanodegree][1]
+## Contents
+
+- [Rules](rules.md)
+- [Log](log.md)
+- [Goals List](goals_list.md)
+- [FAQ](https://github.com/akshay1337/301-Days-Of-Code#faq)
+
+* [ ] [Udacity Front End Nanodegree][1]
   - [x] Project 1: [Portfolio Page][7]
   - [ ] Project 2: [Memory Game][2]
   - [ ] Project 3: [Arcade Game][3]
@@ -8,23 +15,23 @@
   - [ ] Project 5: [Restaurant Reviews App][4]
   - [ ] Project 6: [Udacity MyReads - My Reads: Book Tracking App][5]
   - [ ] Project 7: [Neighborhood Map][6]
-- [ ] [Wordpress Website Business Udemy Course][9]
-- [ ] [Google Analytics Certification][10]
-- [ ] Tyler McGinnis Courses:
+* [ ] [Wordpress Website Business Udemy Course][9]
+* [ ] [Google Analytics Certification][10]
+* [ ] Tyler McGinnis Courses:
   - [ ] React Fundamentals
   - [ ] Modern JavaScript
   - [ ] Advanced JavaScript
   - [ ] Redux
   - [ ] React Router
   - [ ] React Native
-- [ ] Codecademy courses:
+* [ ] Codecademy courses:
   - [ ] ReactJS Part 1
   - [ ] ReactJS Part 2
-- [ ] [Skillcrush][11] Blueprints
+* [ ] [Skillcrush][11] Blueprints
   - [ ] Ruby on Rails Developer Blueprint
   - [ ] [Freelance WordPress Developer Blueprint][13]
   - [ ] [Front End Developer Bluprint][12]
-- [ ] New amazing job as a scrum master, developer or other tech-adjacent job with some management duties
+* [ ] New amazing job as a scrum master, developer or other tech-adjacent job with some management duties
 
 [1]: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 'Udacity Front End Nanodegree'
 [2]: https://www.diigo.com/outliner/fii42b/Udacity-Memory-Game-Project?key=dwj0y5x9cw
