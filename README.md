@@ -3,12 +3,14 @@
 ![#301DaysOfCode Logo](http://tonomoshia.com/wp-content/uploads/301days-logo-09.png)
 
 ## Contents
-* [Rules](rules.md)
-* [Log](log.md)
-* [Goals List](goals_list.md)
-* [FAQ](https://github.com/akshay1337/301-Days-Of-Code#faq)
+
+- [Rules](rules.md)
+- [Log](log.md)
+- [Goals List](goals_list.md)
+- [FAQ](README.md)
 
 ## What is #301DaysOfCode?
+
 Want to go from code noob to employed developer in less than a year?
 
 Take the **#301DaysOfCode** and go from Code newbie to an employed Developer in less than a year. The only stipulation: code 3 minutes and 1 second per day for 301 days. Wait! What? Why so little? Check out the FAQ below.
@@ -44,6 +46,7 @@ Of course my friend! Most people doing **#100DaysOfCode** are also doing **#301D
 **#301DaysOfCode** is not aimed at any particular technology. Most people taking the challenge are aiming at learning Web Development, but you can choose any field in programming. The main motive is to become a developer and get hired at the end of the Year.
 
 ## Note
+
 If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page). :blush:
 
 ---

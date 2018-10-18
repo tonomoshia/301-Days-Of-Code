@@ -5,7 +5,7 @@
 - [Rules](rules.md)
 - [Log](log.md)
 - [Goals List](goals_list.md)
-- [FAQ](https://github.com/akshay1337/301-Days-Of-Code#faq)
+- [FAQ](README.md)
 
 * [ ] [Udacity Front End Nanodegree][1]
   - [x] Project 1: [Portfolio Page][7]
