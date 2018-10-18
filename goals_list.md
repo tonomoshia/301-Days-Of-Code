@@ -2,7 +2,7 @@
 
 - [ ] [Udacity Front End Nanodegree][1]
   - [x] Project 1: [Portfolio Page][7]
-  - [x] Project 2: [Memory Game][2]
+  - [ ] Project 2: [Memory Game][2]
   - [ ] Project 3: [Arcade Game][3]
   - [x] Project 4: [Feed Reader Testing][8]
   - [ ] Project 5: [Restaurant Reviews App][4]
