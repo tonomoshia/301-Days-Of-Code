@@ -199,6 +199,24 @@ Reviewed first 4 Sections in this lesson:
 
 Applying for a job at Konsus for a Squarespace Developer, so I took a [Skillshare][32] web course about [Squarespace][33]: [Personal Branding Essentials: Making the Most of Squarespace][31].
 
+### October 18-24
+
+Have been looking for a job and cogitating on the direction for my personal website. Attended another online class on Squarespace to learn more about the competition's use of blocks and why WordPress is moving to that editing model. Blocks are life, they always have been. You can't write any CSS without being familiar with the box model. So this idea should be familiar to most of us making things on the web.
+
+Experimented with the Gutenberg Ramp plugin which allows you to decide which parts of your website you will use Gutenberg on. Pretty nifty. I spun up a copy of my site on Local By Flywheel and enable Gutenberg blocks on 'pages' only. Creating content with the blocks is easier in Squarespace than in WordPress, so far. I think it may be because there are so many things you can do with the blocks in WordPress, compared to Squarespace's walled garden approach. Squarespace is the iPhone to WordPress's Android phone.
+
+(Oh I also activated a bunch of plugins that enable additional sets of blocks, just to make it interesting and more complicated. Once I try them out I pick one to use on my site as using them all is redundant in most cases.)
+
+I also read a lot about the accessibility issues still to be resolved in Gutenberg. My use of it does make me wonder how difficult it would be for a differently-abled person to use it.
+
+Anyway I have been focused on looking for a job. Most likely I will have to pay for the Udacity extension. Hopefully that will motivate me to finish faster.
+
+### Day 112 [October 25, 2018]
+
+I was up late (2:30 a.m. this morning) applying for more jobs and deciding which ones to apply to or at least look at tomorrow. Once I was done with that I decided to dive into App Academy's online courses. They recently made them all free online. Spent 20 minutes in the JavaScript section. Useful.
+
+Only problem is that they are speaking to me as if I know Ruby and Ruby on Rails because Javascript is phase 3 of their program. We shall see if this becomes a problem. If so, I will put it aside for later. I want to learn Ruby and Ruby on Rails, but not right now.
+
 [1]: https://es6.kwippe.com/ 'JavaScript ES6 Explorer'
 [2]: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js 'Awesome JS Cheatsheet'
 [3]: https://30secondsofinterviews.org/ '30 Seconds of Interviews'
